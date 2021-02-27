@@ -22,12 +22,14 @@
 
 ### Operators in JS
 
-* Addition (+)
-* Multiplication (*)
-* Division (/)
-* Subtraction (-)
-* Modulus (%)
-* Exponential (**)
+* Addition (+) or +=
+* Multiplication (*) or *=
+* Division (/) or /=
+* Subtraction (-) or -=
+* Modulus (%) or %=
+* Exponential (**) 
+* Increment (++)
+* Decrement (--)
 
 <br>
 
@@ -47,4 +49,30 @@
 * **-Infinity** : -1/0
 * **-0** : negative is also a value in JS
 
+---
+---
+<br>
 
+> **New Syntax :**  let varName = value
+
+> **Old Syntax :** var varName = value
+
+---
+
+> **Camel Casing** : first letter of first words should be small and later on it should be capital
+* Example : numOfRating , whatIsThis
+
+---
+---
+
+**Const** : cannot change it latter on
+* Example : pi , daysInWeek etc.
+
+> const a = 17 ; 
+
+> a +=1  // error
+
+* Can't have a variable of same name even if one is let and other is const
+
+---
+---
