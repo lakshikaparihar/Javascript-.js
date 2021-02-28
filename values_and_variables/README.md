@@ -20,7 +20,7 @@
 ---
 <br>
 
-### Operators in JS
+## Operators in JS
 
 * Addition (+) or +=
 * Multiplication (*) or *=
@@ -36,6 +36,8 @@
 ---
 ---
 
+<br>
+
 <strong>NaN</strong> is  NOT A NUMBER : It's a numeric value that represents something that is not a number (It's basically means that js is having a hard time to represent that number)
 
 * <strong>Example :</strong> 
@@ -49,14 +51,14 @@
 * **-Infinity** : -1/0
 * **-0** : negative is also a value in JS
 
----
----
 <br>
 
+---
+---
+
 > **New Syntax :**  let varName = value
-
+---
 > **Old Syntax :** var varName = value
-
 ---
 
 > **Camel Casing** : first letter of first words should be small and later on it should be capital
@@ -65,7 +67,10 @@
 ---
 ---
 
-**Const** : cannot change it latter on
+<br>
+
+## Const
+: cannot change it latter on
 * Example : pi , daysInWeek etc.
 
 > const a = 17 ; 
@@ -76,17 +81,21 @@
 
 * Variable can change their data type
 
+<br>
+
 ---
 ---
 
-<br>
 
 > To check the type of a variable we use **typeof**
 Example : typeof 87
-<br>
 
 ---
 ---
+
+<br>
+
+## String
 
 Use the combination of single and Double quote when you want quote inside of string
 
