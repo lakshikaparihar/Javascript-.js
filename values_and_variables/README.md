@@ -84,6 +84,7 @@
 > To check the type of a variable we use **typeof**
 Example : typeof 87
 <br>
+
 ---
 ---
 
@@ -99,3 +100,10 @@ Use the combination of single and Double quote when you want quote inside of str
 * String.length
 
 > To get the last character of a string we can do it like this a[a.length - 1]
+
+* String.toUpperCase()
+* String.toLowerCase()
+
+> original value is unchanged until we change it manually
+
+* String.trim() : Removes space from begining and ending of a string
