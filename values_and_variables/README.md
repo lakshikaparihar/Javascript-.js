@@ -97,7 +97,11 @@ Use the combination of single and Double quote when you want quote inside of str
 * String is indexed starting from 0 and can be accessed but can't be modified
 
 #### String Properties
+
+> if we are searching for index out of league then it will show undefined.
+
 * String.length
+
 
 > To get the last character of a string we can do it like this a[a.length - 1]
 
