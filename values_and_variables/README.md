@@ -84,6 +84,7 @@
 > To check the type of a variable we use **typeof**
 Example : typeof 87
 <br>
+
 ---
 ---
 
