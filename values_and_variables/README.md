@@ -107,3 +107,14 @@ Use the combination of single and Double quote when you want quote inside of str
 > original value is unchanged until we change it manually
 
 * String.trim() : Removes space from begining and ending of a string
+
+* String.indexOf(substring) : In which index this substring belong
+
+> Remember if you are finding the substring then it will return the index of the first charcter of the substring and if not found then -1
+
+* String.slice(start , end(optional and exclusive))
+
+> return empty string if there is nothing to slice
+
+* String.replace(what , replace with) 
+    * "ha ha ha".replace('ha','hee') :==> "hee ha ha"
