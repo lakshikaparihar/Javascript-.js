@@ -1,7 +1,7 @@
 ## Primitive Types
 * Number (Numeric Value)
 * String (Text)
-* Boolean (True and False)
+* Boolean (true and false)
 * Null
 * Undefined
 * Symbol
@@ -74,5 +74,28 @@
 
 * Can't have a variable of same name even if one is let and other is const
 
+* Variable can change their data type
+
 ---
 ---
+
+<br>
+
+> To check the type of a variable we use **typeof**
+Example : typeof 87
+<br>
+---
+---
+
+Use the combination of single and Double quote when you want quote inside of string
+
+* String Concatenation(str1 + " "+ str2)
+   
+  * Example: "hi" + 1 ---> hi1 (it will covert 1 into a string)
+
+* String is indexed starting from 0 and can be accessed but can't be modified
+
+#### String Properties
+* String.length
+
+> To get the last character of a string we can do it like this a[a.length - 1]
